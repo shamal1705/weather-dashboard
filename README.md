@@ -1,4 +1,4 @@
-# Host site is --  (https://graceful-syrniki-36e83b.netlify.app)
+# Host site is --  (https://weather-dashboard-react17.netlify.app)
 ### `npm start`
 
 Runs the app in the development mode.\
